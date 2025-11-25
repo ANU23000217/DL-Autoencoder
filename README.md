@@ -11,62 +11,23 @@ Include the neural network model diagram.
 
 ## DESIGN STEPS
 ### STEP 1: 
-
-Write your own steps
+Problem Understanding and Dataset Selection
 
 ### STEP 2: 
-
-
-
+ Preprocessing the Dataset
+ 
 ### STEP 3: 
-
-
+Design the Convolutional Autoencoder Architecture
 
 ### STEP 4: 
-
-
+Compile and Train the Model
 
 ### STEP 5: 
-
-
+Evaluate the Model
 
 ### STEP 6: 
+Visualization and Analysis
 
-
-
-
-
-## PROGRAM
-
-### Name:
-
-### Register Number:
-
-```python
-# Autoencoder Definition
-class DenoisingAutoencoder(nn.Module):
-    def __init__(self):
-
-
-
-# Initialize model
-
-# Training function
-
-# Visualization function
-
-
-```
-
-### OUTPUT
-
-### Model Summary
-Include your model summary
-
-### Training loss
-
-## Original vs Noisy Vs Reconstructed Image
-Include a few sample images here.
 
 ## RESULT
-Include your result here
+Therefore, To develop a convolutional autoencoder for image denoising application executed successfully.
